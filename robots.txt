@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tifetipenola.pages.dev/sitemap.xml
